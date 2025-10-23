@@ -1,0 +1,17 @@
+D:\Console C#OOP1\bin\Debug\net9.0\Console C#OOP1.exe
+D:\Console C#OOP1\bin\Debug\net9.0\Console C#OOP1.deps.json
+D:\Console C#OOP1\bin\Debug\net9.0\Console C#OOP1.runtimeconfig.json
+D:\Console C#OOP1\bin\Debug\net9.0\Console C#OOP1.dll
+D:\Console C#OOP1\bin\Debug\net9.0\Console C#OOP1.pdb
+D:\Console C#OOP1\obj\Debug\net9.0\Console C#OOP1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Console C#OOP1\obj\Debug\net9.0\Console C#OOP1.AssemblyInfoInputs.cache
+D:\Console C#OOP1\obj\Debug\net9.0\Console C#OOP1.AssemblyInfo.cs
+D:\Console C#OOP1\obj\Debug\net9.0\Console C#OOP1.csproj.CoreCompileInputs.cache
+D:\Console C#OOP1\obj\Debug\net9.0\Console C#OOP1.dll
+D:\Console C#OOP1\obj\Debug\net9.0\refint\Console C#OOP1.dll
+D:\Console C#OOP1\obj\Debug\net9.0\Console C#OOP1.pdb
+D:\Console C#OOP1\obj\Debug\net9.0\Console C#OOP1.genruntimeconfig.cache
+D:\Console C#OOP1\obj\Debug\net9.0\ref\Console C#OOP1.dll
+D:\Console C#OOP1\bin\Debug\net9.0\MP3Sharp.dll
+D:\Console C#OOP1\obj\Debug\net9.0\Console C#OOP1.csproj.AssemblyReference.cache
+D:\Console C#OOP1\obj\Debug\net9.0\Console .16F9E263.Up2Date
