@@ -1,0 +1,14 @@
+D:\Console С#OOP1dz\bin\Debug\net9.0\Console С#OOP1dz.exe
+D:\Console С#OOP1dz\bin\Debug\net9.0\Console С#OOP1dz.deps.json
+D:\Console С#OOP1dz\bin\Debug\net9.0\Console С#OOP1dz.runtimeconfig.json
+D:\Console С#OOP1dz\bin\Debug\net9.0\Console С#OOP1dz.dll
+D:\Console С#OOP1dz\bin\Debug\net9.0\Console С#OOP1dz.pdb
+D:\Console С#OOP1dz\obj\Debug\net9.0\Console С#OOP1dz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Console С#OOP1dz\obj\Debug\net9.0\Console С#OOP1dz.AssemblyInfoInputs.cache
+D:\Console С#OOP1dz\obj\Debug\net9.0\Console С#OOP1dz.AssemblyInfo.cs
+D:\Console С#OOP1dz\obj\Debug\net9.0\Console С#OOP1dz.csproj.CoreCompileInputs.cache
+D:\Console С#OOP1dz\obj\Debug\net9.0\Console С#OOP1dz.dll
+D:\Console С#OOP1dz\obj\Debug\net9.0\refint\Console С#OOP1dz.dll
+D:\Console С#OOP1dz\obj\Debug\net9.0\Console С#OOP1dz.pdb
+D:\Console С#OOP1dz\obj\Debug\net9.0\Console С#OOP1dz.genruntimeconfig.cache
+D:\Console С#OOP1dz\obj\Debug\net9.0\ref\Console С#OOP1dz.dll
