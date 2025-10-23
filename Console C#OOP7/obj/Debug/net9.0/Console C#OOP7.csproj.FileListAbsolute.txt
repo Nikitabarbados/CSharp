@@ -1,0 +1,14 @@
+D:\Console C#OOP7\bin\Debug\net9.0\Console C#OOP7.exe
+D:\Console C#OOP7\bin\Debug\net9.0\Console C#OOP7.deps.json
+D:\Console C#OOP7\bin\Debug\net9.0\Console C#OOP7.runtimeconfig.json
+D:\Console C#OOP7\bin\Debug\net9.0\Console C#OOP7.dll
+D:\Console C#OOP7\bin\Debug\net9.0\Console C#OOP7.pdb
+D:\Console C#OOP7\obj\Debug\net9.0\Console C#OOP7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Console C#OOP7\obj\Debug\net9.0\Console C#OOP7.AssemblyInfoInputs.cache
+D:\Console C#OOP7\obj\Debug\net9.0\Console C#OOP7.AssemblyInfo.cs
+D:\Console C#OOP7\obj\Debug\net9.0\Console C#OOP7.csproj.CoreCompileInputs.cache
+D:\Console C#OOP7\obj\Debug\net9.0\Console C#OOP7.dll
+D:\Console C#OOP7\obj\Debug\net9.0\refint\Console C#OOP7.dll
+D:\Console C#OOP7\obj\Debug\net9.0\Console C#OOP7.pdb
+D:\Console C#OOP7\obj\Debug\net9.0\Console C#OOP7.genruntimeconfig.cache
+D:\Console C#OOP7\obj\Debug\net9.0\ref\Console C#OOP7.dll
