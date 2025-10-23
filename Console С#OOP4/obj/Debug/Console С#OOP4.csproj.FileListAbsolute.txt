@@ -1,0 +1,8 @@
+D:\Console С#OOP4\bin\Debug\Console С#OOP4.exe.config
+D:\Console С#OOP4\bin\Debug\Console С#OOP4.exe
+D:\Console С#OOP4\bin\Debug\Console С#OOP4.pdb
+D:\Console С#OOP4\obj\Debug\Console С#OOP4.csproj.AssemblyReference.cache
+D:\Console С#OOP4\obj\Debug\Console С#OOP4.csproj.CoreCompileInputs.cache
+D:\Console С#OOP4\obj\Debug\Console С#OOP4.exe
+D:\Console С#OOP4\obj\Debug\Console С#OOP4.pdb
+D:\Console С#OOP4\obj\Debug\Console С#OOP4.exe.config
