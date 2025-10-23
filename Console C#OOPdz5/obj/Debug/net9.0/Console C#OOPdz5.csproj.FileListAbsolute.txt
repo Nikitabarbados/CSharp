@@ -1,0 +1,4 @@
+D:\Console C#OOPdz5\obj\Debug\net9.0\Console C#OOPdz5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Console C#OOPdz5\obj\Debug\net9.0\Console C#OOPdz5.AssemblyInfoInputs.cache
+D:\Console C#OOPdz5\obj\Debug\net9.0\Console C#OOPdz5.AssemblyInfo.cs
+D:\Console C#OOPdz5\obj\Debug\net9.0\Console C#OOPdz5.csproj.CoreCompileInputs.cache
