@@ -1,13 +1,15 @@
 ﻿using System;
+
 class StudentManagementException : ApplicationException
 {
-    public StudentManagementException(string message) : base(message) {}
+    public StudentManagementException(string message) : base(message) { }
 }
 
 class InvalidGradeException : StudentManagementException
 {
-    public int InvalidValue { 
-        get; set;
+    public int InvalidValue {
+        get;
+        set;
     }
 
     public InvalidGradeException(string message, int value) : base(message)
@@ -19,7 +21,8 @@ class InvalidGradeException : StudentManagementException
 class StudentNotFoundException : StudentManagementException
 {
     public string StudentName { 
-        get; set; 
+        get;
+        set;
     }
 
     public StudentNotFoundException(string message, string name) : base(message)
@@ -30,8 +33,9 @@ class StudentNotFoundException : StudentManagementException
 
 class InvalidStudentDataException : StudentManagementException
 {
-    public string FieldName { 
-        get; set;
+    public string FieldName {
+        get;
+        set;
     }
 
     public InvalidStudentDataException(string message, string field) : base(message)
@@ -39,6 +43,7 @@ class InvalidStudentDataException : StudentManagementException
         FieldName = field;
     }
 }
+
 class GroupManagementException : ApplicationException
 {
     public GroupManagementException(string message) : base(message) { }
@@ -47,7 +52,8 @@ class GroupManagementException : ApplicationException
 class GroupFullException : GroupManagementException
 {
     public int MaxSize {
-        get; set;
+        get;
+        set;
     }
 
     public GroupFullException(string message, int maxSize) : base(message)
@@ -59,7 +65,8 @@ class GroupFullException : GroupManagementException
 class InvalidGroupDataException : GroupManagementException
 {
     public string FieldName { 
-        get; set; 
+        get; 
+        set;
     }
 
     public InvalidGroupDataException(string message, string field) : base(message)
@@ -71,7 +78,8 @@ class InvalidGroupDataException : GroupManagementException
 class TransferFailedException : GroupManagementException
 {
     public string StudentName { 
-        get; set; 
+        get;
+        set;
     }
 
     public TransferFailedException(string message, string name) : base(message)
@@ -114,9 +122,7 @@ class Student
         ValidateGrade(a);
         ValidateGrade(b);
         ValidateGrade(c);
-        credits[0] = a; 
-        credits[1] = b; 
-        credits[2] = c;
+        credits[0] = a; credits[1] = b; credits[2] = c;
     }
 
     public void SetCourseWorks(int a, int b)
@@ -133,7 +139,7 @@ class Student
         ValidateGrade(b);
         ValidateGrade(c);
         exams[0] = a;
-        exams[1] = b; 
+        exams[1] = b;
         exams[2] = c;
     }
 
@@ -148,12 +154,9 @@ class Student
         int sum = 0;
         int count = credits.Length + courseWorks.Length + exams.Length;
 
-        for (int i = 0; i < credits.Length; i++) 
-            sum += credits[i];
-        for (int i = 0; i < courseWorks.Length; i++)
-            sum += courseWorks[i];
-        for (int i = 0; i < exams.Length; i++) 
-            sum += exams[i];
+        for (int i = 0; i < credits.Length; i++) sum += credits[i];
+        for (int i = 0; i < courseWorks.Length; i++) sum += courseWorks[i];
+        for (int i = 0; i < exams.Length; i++) sum += exams[i];
 
         return (double)sum / count;
     }
@@ -165,10 +168,47 @@ class Student
         Console.WriteLine();
     }
 
-    public string LastName { 
-        get { 
-            return lastName; 
+    public string LastName
+    {
+        get {
+            return lastName;
         }
+    }
+
+    public static bool operator == (Student s1, Student s2)
+    {
+        if (ReferenceEquals(s1, s2))
+            return true;
+        if (ReferenceEquals(s1, null) || ReferenceEquals(s2, null))
+            return false;
+        return s1.Average() == s2.Average();
+    }
+
+    public static bool operator !=(Student s1, Student s2)
+    {
+        return !(s1 == s2);
+    }
+
+    public static bool operator true(Student s)
+    {
+        return s != null && s.Average() >= 70;
+    }
+
+    public static bool operator false(Student s)
+    {
+        return !(s != null && s.Average() >= 70);
+    }
+
+    public override bool Equals(object obj)
+    {
+        if (obj is Student other)
+            return this == other;
+        return false;
+    }
+
+    public override int GetHashCode()
+    {
+        return Average().GetHashCode();
     }
 }
 
@@ -205,9 +245,7 @@ class Group
     {
         Console.WriteLine("Група: " + groupName + " (" + specialization + "), Курс: " + course);
         for (int i = 0; i < count; i++)
-        {
             students[i].Show();
-        }
     }
 
     public void TransferStudent(string lastName, Group otherGroup)
@@ -239,6 +277,32 @@ class Group
 
         count--;
     }
+
+    public static bool operator == Ф(Group g1, Group g2)
+    {
+        if (ReferenceEquals(g1, g2))
+            return true;
+        if (ReferenceEquals(g1, null) || ReferenceEquals(g2, null)) 
+            return false;
+        return g1.count == g2.count;
+    }
+
+    public static bool operator != (Group g1, Group g2)
+    {
+        return !(g1 == g2);
+    }
+
+    public override bool Equals(object obj)
+    {
+        if (obj is Group other)
+            return this == other;
+        return false;
+    }
+
+    public override int GetHashCode()
+    {
+        return count.GetHashCode();
+    }
 }
 
 class Program
@@ -248,7 +312,7 @@ class Program
         try
         {
             Student s1 = new Student("Іваненко", "Іван", "Іванович", new DateTime(2003, 5, 12), "Київ", "123-456");
-            s1.SetExams(80, 90, 110);
+            s1.SetExams(80, 90, 70);
 
             Student s2 = new Student("Петренко", "Петро", "Петрович", new DateTime(2004, 7, 22), "Львів", "987-654");
             s2.SetExams(50, 60, 70);
@@ -259,23 +323,26 @@ class Program
             g1.AddStudent(s1);
             g1.AddStudent(s2);
 
-            g1.TransferStudent("Сидоренко", g2);
-        }
-        catch (InvalidGradeException ex)
-        {
-            Console.WriteLine("Помилка оцінки: " + ex.Message + " (значення: " + ex.InvalidValue + ")");
-        }
-        catch (StudentNotFoundException ex)
-        {
-            Console.WriteLine("Помилка: студент не знайдений — " + ex.StudentName);
-        }
-        catch (GroupFullException ex)
-        {
-            Console.WriteLine("Група переповнена (макс: " + ex.MaxSize + ")");
+            g2.AddStudent(new Student("Сидоренко", "Олег", "Іванович", new DateTime(2003, 1, 20), "Одеса", "555-111"));
+
+            Console.WriteLine("=== Перевірка операторів ===");
+            Console.WriteLine($"s1 == s2 ? {(s1 == s2)}");
+            Console.WriteLine($"g1 == g2 ? {(g1 == g2)}");
+
+            if (s1)
+                Console.WriteLine("s1 має високий середній бал (>=70)");
+            else
+                Console.WriteLine("s1 має низький середній бал (<70)");
+
+            if (s2)
+                Console.WriteLine("s2 має високий середній бал (>=70)");
+            else
+                Console.WriteLine("s2 має низький середній бал (<70)");
+
         }
         catch (ApplicationException ex)
         {
-            Console.WriteLine("Сталася помилка: " + ex.Message);
+            Console.WriteLine("Помилка: " + ex.Message);
         }
 
         Console.WriteLine("\nПрограма завершила роботу.");
