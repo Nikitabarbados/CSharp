@@ -1,0 +1,14 @@
+D:\ConsoleApp C#OOP12\bin\Debug\net9.0\ConsoleApp C#OOP12.exe
+D:\ConsoleApp C#OOP12\bin\Debug\net9.0\ConsoleApp C#OOP12.deps.json
+D:\ConsoleApp C#OOP12\bin\Debug\net9.0\ConsoleApp C#OOP12.runtimeconfig.json
+D:\ConsoleApp C#OOP12\bin\Debug\net9.0\ConsoleApp C#OOP12.dll
+D:\ConsoleApp C#OOP12\bin\Debug\net9.0\ConsoleApp C#OOP12.pdb
+D:\ConsoleApp C#OOP12\obj\Debug\net9.0\ConsoleApp C#OOP12.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsoleApp C#OOP12\obj\Debug\net9.0\ConsoleApp C#OOP12.AssemblyInfoInputs.cache
+D:\ConsoleApp C#OOP12\obj\Debug\net9.0\ConsoleApp C#OOP12.AssemblyInfo.cs
+D:\ConsoleApp C#OOP12\obj\Debug\net9.0\ConsoleApp C#OOP12.csproj.CoreCompileInputs.cache
+D:\ConsoleApp C#OOP12\obj\Debug\net9.0\ConsoleApp C#OOP12.dll
+D:\ConsoleApp C#OOP12\obj\Debug\net9.0\refint\ConsoleApp C#OOP12.dll
+D:\ConsoleApp C#OOP12\obj\Debug\net9.0\ConsoleApp C#OOP12.pdb
+D:\ConsoleApp C#OOP12\obj\Debug\net9.0\ConsoleApp C#OOP12.genruntimeconfig.cache
+D:\ConsoleApp C#OOP12\obj\Debug\net9.0\ref\ConsoleApp C#OOP12.dll
