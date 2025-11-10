@@ -1,0 +1,15 @@
+Product
+Cart
+Customer
+Order
+Payment
+CreditCardPayment
+CashPayment
+User
+Admin
+Delivery
+DeliveryService
+IProduct
+IPayment
+IDiscountable
+IReportable
