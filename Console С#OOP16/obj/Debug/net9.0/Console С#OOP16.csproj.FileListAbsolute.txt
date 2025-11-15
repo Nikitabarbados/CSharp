@@ -1,0 +1,14 @@
+D:\Console С#OOP16\obj\Debug\net9.0\Console С#OOP16.GeneratedMSBuildEditorConfig.editorconfig
+D:\Console С#OOP16\obj\Debug\net9.0\Console С#OOP16.AssemblyInfoInputs.cache
+D:\Console С#OOP16\obj\Debug\net9.0\Console С#OOP16.AssemblyInfo.cs
+D:\Console С#OOP16\obj\Debug\net9.0\Console С#OOP16.csproj.CoreCompileInputs.cache
+D:\Console С#OOP16\bin\Debug\net9.0\Console С#OOP16.exe
+D:\Console С#OOP16\bin\Debug\net9.0\Console С#OOP16.deps.json
+D:\Console С#OOP16\bin\Debug\net9.0\Console С#OOP16.runtimeconfig.json
+D:\Console С#OOP16\bin\Debug\net9.0\Console С#OOP16.dll
+D:\Console С#OOP16\bin\Debug\net9.0\Console С#OOP16.pdb
+D:\Console С#OOP16\obj\Debug\net9.0\Console С#OOP16.dll
+D:\Console С#OOP16\obj\Debug\net9.0\refint\Console С#OOP16.dll
+D:\Console С#OOP16\obj\Debug\net9.0\Console С#OOP16.pdb
+D:\Console С#OOP16\obj\Debug\net9.0\Console С#OOP16.genruntimeconfig.cache
+D:\Console С#OOP16\obj\Debug\net9.0\ref\Console С#OOP16.dll
