@@ -1,0 +1,17 @@
+{
+  "OrderNumber": "ORD-20251212-0001",
+  "OrderDate": "2025-12-12T07:30:29.1281744+02:00",
+  "Items": [
+    {
+      "ProductName": "Ноутбук Dell XPS 15",
+      "Price": 45000,
+      "Quantity": 2,
+      "Total": 90000
+    }
+  ],
+  "SubtotalAmount": 90000,
+  "DiscountAmount": 9000.0,
+  "TotalAmount": 81000.0,
+  "Status": 0,
+  "Notes": null
+}
