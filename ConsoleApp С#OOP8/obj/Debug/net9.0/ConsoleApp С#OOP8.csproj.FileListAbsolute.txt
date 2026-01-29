@@ -1,0 +1,14 @@
+D:\ConsoleApp С#OOP8\bin\Debug\net9.0\ConsoleApp С#OOP8.exe
+D:\ConsoleApp С#OOP8\bin\Debug\net9.0\ConsoleApp С#OOP8.deps.json
+D:\ConsoleApp С#OOP8\bin\Debug\net9.0\ConsoleApp С#OOP8.runtimeconfig.json
+D:\ConsoleApp С#OOP8\bin\Debug\net9.0\ConsoleApp С#OOP8.dll
+D:\ConsoleApp С#OOP8\bin\Debug\net9.0\ConsoleApp С#OOP8.pdb
+D:\ConsoleApp С#OOP8\obj\Debug\net9.0\ConsoleApp С#OOP8.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsoleApp С#OOP8\obj\Debug\net9.0\ConsoleApp С#OOP8.AssemblyInfoInputs.cache
+D:\ConsoleApp С#OOP8\obj\Debug\net9.0\ConsoleApp С#OOP8.AssemblyInfo.cs
+D:\ConsoleApp С#OOP8\obj\Debug\net9.0\ConsoleApp С#OOP8.csproj.CoreCompileInputs.cache
+D:\ConsoleApp С#OOP8\obj\Debug\net9.0\ConsoleApp С#OOP8.dll
+D:\ConsoleApp С#OOP8\obj\Debug\net9.0\refint\ConsoleApp С#OOP8.dll
+D:\ConsoleApp С#OOP8\obj\Debug\net9.0\ConsoleApp С#OOP8.pdb
+D:\ConsoleApp С#OOP8\obj\Debug\net9.0\ConsoleApp С#OOP8.genruntimeconfig.cache
+D:\ConsoleApp С#OOP8\obj\Debug\net9.0\ref\ConsoleApp С#OOP8.dll
