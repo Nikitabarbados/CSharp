@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<puzzle xmlns="http://myhome.local/perfumes">
+	
+    <puzzle id="1">
+        <name>3×3 Speedcube (синьо-оранжевий)</name>
+        <type>Classic 3×3</type>
+        <brand>Невідомий</brand>
+        <info>Швидкісний куб 3×3, встановлений на підставці.</info>
+    </puzzle>
+
+    <puzzle id="2">
+        <name>Pyraminx</name>
+        <type>Triangle Puzzle</type>
+        <brand>Невідомий</brand>
+        <info>Трикутна головоломка з жовто-чорними наклейками.</info>
+    </puzzle>
+
+    <puzzle id="3">
+        <name>Megaminx-подібна головоломка</name>
+        <type>Dodecahedron</type>
+        <brand>Невідомий</brand>
+        <info>Багатогранна головоломка синьо-бірюзового кольору.</info>
+    </puzzle>
+
+    <puzzle id="4">
+        <name>Curvy Copter</name>
+        <type>Edge-Turning Puzzle</type>
+        <brand>Невідомий</brand>
+        <info>Чорно-білий шейпмод із кривими зрізами.</info>
+    </puzzle>
+
+    <puzzle id="5">
+        <name>2×2 Classic Cube (білий)</name>
+        <type>2×2</type>
+        <brand>Невідомий</brand>
+        <info>Білий куб 2×2 з округлими сегментами.</info>
+    </puzzle>
+
+    <puzzle id="6">
+        <name>ShengShou-подібний Gear Cube</name>
+        <type>Gear Puzzle</type>
+        <brand>Невідомий</brand>
+        <info>Чорний корпус, зубчасті елементи, обертання через шестерні.</info>
+    </puzzle>
+
+    <puzzle id="7">
+        <name>Mirror Cube (металевий)</name>
+        <type>Mirror 3×3</type>
+        <brand>Невідомий</brand>
+        <info>Куб з металевими срібними наклейками, що змінює форму при обертанні.</info>
+    </puzzle>
+
+    <puzzle id="8">
+        <name>Color Mosaic Cube</name>
+        <type>Pattern Puzzle</type>
+        <brand>Невідомий</brand>
+        <info>Кольорова головоломка з маленьких квадратних сегментів.</info>
+    </puzzle>
+
+    <puzzle id="9">
+        <name>Ball Fidget Puzzle</name>
+        <type>Fidget Sphere</type>
+        <brand>Невідомий</brand>
+        <info>Сферична головоломка з різнокольоровими круглими кнопками.</info>
+    </puzzle>
+
+    <puzzle id="10">
+        <name>Fidget Spinner</name>
+        <type>Spinner</type>
+        <brand>Невідомий</brand>
+        <info>Трипроменевий спінер фіолетово-рожевого забарвлення.</info>
+    </puzzle>

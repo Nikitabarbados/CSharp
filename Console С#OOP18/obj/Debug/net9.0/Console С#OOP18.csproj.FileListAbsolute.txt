@@ -1,0 +1,14 @@
+D:\Console С#OOP18\bin\Debug\net9.0\Console С#OOP18.exe
+D:\Console С#OOP18\bin\Debug\net9.0\Console С#OOP18.deps.json
+D:\Console С#OOP18\bin\Debug\net9.0\Console С#OOP18.runtimeconfig.json
+D:\Console С#OOP18\bin\Debug\net9.0\Console С#OOP18.dll
+D:\Console С#OOP18\bin\Debug\net9.0\Console С#OOP18.pdb
+D:\Console С#OOP18\obj\Debug\net9.0\Console С#OOP18.GeneratedMSBuildEditorConfig.editorconfig
+D:\Console С#OOP18\obj\Debug\net9.0\Console С#OOP18.AssemblyInfoInputs.cache
+D:\Console С#OOP18\obj\Debug\net9.0\Console С#OOP18.AssemblyInfo.cs
+D:\Console С#OOP18\obj\Debug\net9.0\Console С#OOP18.csproj.CoreCompileInputs.cache
+D:\Console С#OOP18\obj\Debug\net9.0\Console С#OOP18.dll
+D:\Console С#OOP18\obj\Debug\net9.0\refint\Console С#OOP18.dll
+D:\Console С#OOP18\obj\Debug\net9.0\Console С#OOP18.pdb
+D:\Console С#OOP18\obj\Debug\net9.0\Console С#OOP18.genruntimeconfig.cache
+D:\Console С#OOP18\obj\Debug\net9.0\ref\Console С#OOP18.dll
