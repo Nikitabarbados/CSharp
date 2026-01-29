@@ -1,0 +1,14 @@
+D:\Console С#OOP13\bin\Debug\net9.0\Console С#OOP13.exe
+D:\Console С#OOP13\bin\Debug\net9.0\Console С#OOP13.deps.json
+D:\Console С#OOP13\bin\Debug\net9.0\Console С#OOP13.runtimeconfig.json
+D:\Console С#OOP13\bin\Debug\net9.0\Console С#OOP13.dll
+D:\Console С#OOP13\bin\Debug\net9.0\Console С#OOP13.pdb
+D:\Console С#OOP13\obj\Debug\net9.0\Console С#OOP13.GeneratedMSBuildEditorConfig.editorconfig
+D:\Console С#OOP13\obj\Debug\net9.0\Console С#OOP13.AssemblyInfoInputs.cache
+D:\Console С#OOP13\obj\Debug\net9.0\Console С#OOP13.AssemblyInfo.cs
+D:\Console С#OOP13\obj\Debug\net9.0\Console С#OOP13.csproj.CoreCompileInputs.cache
+D:\Console С#OOP13\obj\Debug\net9.0\Console С#OOP13.dll
+D:\Console С#OOP13\obj\Debug\net9.0\refint\Console С#OOP13.dll
+D:\Console С#OOP13\obj\Debug\net9.0\Console С#OOP13.pdb
+D:\Console С#OOP13\obj\Debug\net9.0\Console С#OOP13.genruntimeconfig.cache
+D:\Console С#OOP13\obj\Debug\net9.0\ref\Console С#OOP13.dll
