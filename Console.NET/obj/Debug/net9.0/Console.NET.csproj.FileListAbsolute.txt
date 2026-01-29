@@ -1,0 +1,5 @@
+D:\Console.NET\obj\Debug\net9.0\Console.NET.csproj.AssemblyReference.cache
+D:\Console.NET\obj\Debug\net9.0\Console.NET.GeneratedMSBuildEditorConfig.editorconfig
+D:\Console.NET\obj\Debug\net9.0\Console.NET.AssemblyInfoInputs.cache
+D:\Console.NET\obj\Debug\net9.0\Console.NET.AssemblyInfo.cs
+D:\Console.NET\obj\Debug\net9.0\Console.NET.csproj.CoreCompileInputs.cache
